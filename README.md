@@ -11,7 +11,7 @@
 Steps to build and/or run the software:
 
 1. Download and run VS Code
-2. Clone git repository at .....
+2. Clone git repository at https://github.com/Brysonbranham/Rexburg_Places_of_Interest.git
 3. Download extension  Live Server by Ritwick Dey this will be used to host your map.
 4. Hold ctrl & shift + Press P. Then click the top option, live server.
 5. The server will automatically run in your local browser displaying your map!
